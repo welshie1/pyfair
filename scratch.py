@@ -1,4 +1,5 @@
 import pyfair
+# import numpy
 
 # Create model and calculate.
 model1 = pyfair.FairModel(name="Regular Model 1", n_simulations=10_000)
